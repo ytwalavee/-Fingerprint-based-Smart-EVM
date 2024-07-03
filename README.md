@@ -13,7 +13,7 @@ Developed a secure and efficient electronic voting machine leveraging fingerprin
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/SmartElectronicVotingMachine.git
+    git clone https://github.com/ytwalavee/Fingerprint-based-Smart-EVM.git
     ```
 ## Contact
 For any queries or issues, please contact:
